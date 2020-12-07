@@ -1,0 +1,62 @@
+<gui version="1" name="okular">
+  <ActionProperties>
+    <Action shortcut="Ctrl+G" name="go_goto_page"/>
+    <Action shortcut="F" name="go_previous"/>
+    <Action shortcut="Space" name="go_next"/>
+    <Action shortcut="Ctrl+Home" name="first_page"/>
+    <Action shortcut="Ctrl+End" name="last_page"/>
+    <Action shortcut="A" name="bookmark_add"/>
+    <Action shortcut="S" name="rename_bookmark"/>
+    <Action shortcut="C" name="previous_bookmark"/>
+    <Action shortcut="V" name="next_bookmark"/>
+    <Action shortcut="Ctrl+F; /" name="edit_find"/>
+    <Action shortcut="F3" name="edit_find_next"/>
+    <Action shortcut="Shift+F3" name="edit_find_prev"/>
+    <Action shortcut="Ctrl+Shift+," name="options_configure"/>
+    <Action shortcut="F5; Refresh" name="file_reload"/>
+    <Action shortcut="Esc" name="close_find_bar"/>
+    <Action shortcut="Ctrl+C; Ctrl+Ins" name="edit_copy"/>
+    <Action shortcut="Ctrl+A" name="edit_select_all"/>
+    <Action shortcut="Ctrl+S" name="file_save"/>
+    <Action shortcut="Ctrl+Shift+S" name="file_save_as"/>
+    <Action shortcut="L" name="show_leftpanel"/>
+    <Action shortcut="Ctrl+N" name="show_bottombar"/>
+    <Action shortcut="F7" name="show_signatures"/>
+    <Action shortcut="Ctrl+Shift+P" name="presentation"/>
+    <Action shortcut="E" name="presentation_erase_drawings"/>
+    <Action shortcut="B" name="presentation_drawing_Red"/>
+    <Action shortcut="K" name="presentation_drawing_Blue"/>
+    <Action shortcut="Ctrl++; Ctrl+=" name="view_zoom_in"/>
+    <Action shortcut="Ctrl+-" name="view_zoom_out"/>
+    <Action shortcut="Ctrl+0" name="view_actual_size"/>
+    <Action shortcut="T" name="view_trim_selection"/>
+    <Action shortcut="W" name="view_fit_to_width"/>
+    <Action shortcut="Q" name="view_fit_to_page"/>
+    <Action shortcut="O" name="view_auto_fit"/>
+    <Action shortcut="Ctrl+1" name="mouse_drag"/>
+    <Action shortcut="Ctrl+2" name="mouse_zoom"/>
+    <Action shortcut="Alt+Shift+Left" name="go_document_back"/>
+    <Action shortcut="Alt+Shift+Right" name="go_document_forward"/>
+    <Action shortcut="Ctrl+3" name="mouse_select"/>
+    <Action shortcut="Ctrl+4" name="mouse_textselect"/>
+    <Action shortcut="Ctrl+5" name="mouse_tableselect"/>
+    <Action shortcut="Ctrl+6" name="mouse_magnifier"/>
+    <Action shortcut="R" name="mouse_toggle_annotate"/>
+    <Action shortcut="Shift+Up" name="view_scroll_up"/>
+    <Action shortcut="Shift+Down" name="view_scroll_down"/>
+    <Action shortcut="Shift+Space" name="view_scroll_page_up"/>
+    <Action shortcut="Z" name="edit_undo"/>
+    <Action shortcut="Shift+Z" name="edit_redo"/>
+    <Action shortcut="N" name="mainToolBar"/>
+    <Action shortcut="Ctrl+O" name="file_open"/>
+    <Action shortcut="Ctrl+P" name="file_print"/>
+    <Action shortcut="Ctrl+W; Ctrl+Esc" name="file_close"/>
+    <Action shortcut="Ctrl+Q" name="file_quit"/>
+    <Action shortcut="M" name="options_show_menubar"/>
+    <Action shortcut="Ctrl+Shift+F" name="fullscreen"/>
+    <Action shortcut="Ctrl+PgDown; Ctrl+]" name="tab-next"/>
+    <Action shortcut="Ctrl+PgUp; Ctrl+[" name="tab-previous"/>
+    <Action shortcut="F1" name="help_contents"/>
+    <Action shortcut="Shift+F1" name="help_whats_this"/>
+  </ActionProperties>
+</gui>
